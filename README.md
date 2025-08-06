@@ -31,10 +31,6 @@ A fun, hangman-style guessing game for anime fans! Built in Python, this game se
 2. Download the script or copy the code
 
 
-3. Run it in your terminal or code editor:
+3. Run it in your terminal or code editor.
 
-
-
-python anime_guess_game.py
-``
-
+4. Good luck and Happy coding...
